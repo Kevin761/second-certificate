@@ -1,0 +1,2 @@
+[ WARN ] Keyword 'Empty Directory' found both from a custom library 'RPA.FileSystem' and a standard library 'OperatingSystem'. The custom keyword is used. To select explicitly, and to get rid of this warning, use either 'RPA.FileSystem.Empty Directory' or 'OperatingSystem.Empty Directory'.
+[ WARN ] Keyword 'Empty Directory' found both from a custom library 'RPA.FileSystem' and a standard library 'OperatingSystem'. The custom keyword is used. To select explicitly, and to get rid of this warning, use either 'RPA.FileSystem.Empty Directory' or 'OperatingSystem.Empty Directory'.
